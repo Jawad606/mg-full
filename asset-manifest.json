@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c1ceb2db.css",
+    "main.js": "./static/js/main.4b23c3db.js",
+    "static/js/787.7518d9ec.chunk.js": "./static/js/787.7518d9ec.chunk.js",
+    "static/media/Pixel_Background_(Smartphone).png": "./static/media/Pixel_Background_(Smartphone).10dab81ee73ac39064b8.png",
+    "static/media/Pixel_Background.png": "./static/media/Pixel_Background.c9796f2057c4a6122f1b.png",
+    "index.html": "./index.html",
+    "main.c1ceb2db.css.map": "./static/css/main.c1ceb2db.css.map",
+    "main.4b23c3db.js.map": "./static/js/main.4b23c3db.js.map",
+    "787.7518d9ec.chunk.js.map": "./static/js/787.7518d9ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ceb2db.css",
+    "static/js/main.4b23c3db.js"
+  ]
+}
