@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.c1ceb2db.css",
-    "main.js": "./static/js/main.4b23c3db.js",
-    "static/js/787.7518d9ec.chunk.js": "./static/js/787.7518d9ec.chunk.js",
-    "static/media/Pixel_Background_(Smartphone).png": "./static/media/Pixel_Background_(Smartphone).10dab81ee73ac39064b8.png",
-    "static/media/Pixel_Background.png": "./static/media/Pixel_Background.c9796f2057c4a6122f1b.png",
-    "index.html": "./index.html",
-    "main.c1ceb2db.css.map": "./static/css/main.c1ceb2db.css.map",
-    "main.4b23c3db.js.map": "./static/js/main.4b23c3db.js.map",
-    "787.7518d9ec.chunk.js.map": "./static/js/787.7518d9ec.chunk.js.map"
+    "main.css": "/mg-full/static/css/main.576d5502.css",
+    "main.js": "/mg-full/static/js/main.1745282d.js",
+    "static/js/787.7518d9ec.chunk.js": "/mg-full/static/js/787.7518d9ec.chunk.js",
+    "static/media/Pixel_Background_(Smartphone).png": "/mg-full/static/media/Pixel_Background_(Smartphone).10dab81ee73ac39064b8.png",
+    "static/media/Pixel_Background.png": "/mg-full/static/media/Pixel_Background.c9796f2057c4a6122f1b.png",
+    "index.html": "/mg-full/index.html",
+    "main.576d5502.css.map": "/mg-full/static/css/main.576d5502.css.map",
+    "main.1745282d.js.map": "/mg-full/static/js/main.1745282d.js.map",
+    "787.7518d9ec.chunk.js.map": "/mg-full/static/js/787.7518d9ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ceb2db.css",
-    "static/js/main.4b23c3db.js"
+    "static/css/main.576d5502.css",
+    "static/js/main.1745282d.js"
   ]
 }
