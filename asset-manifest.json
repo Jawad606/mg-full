@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mg-full/static/css/main.70531be4.css",
-    "main.js": "/mg-full/static/js/main.455f2503.js",
+    "main.css": "/mg-full/static/css/main.608eb909.css",
+    "main.js": "/mg-full/static/js/main.92a7b040.js",
     "static/js/787.7518d9ec.chunk.js": "/mg-full/static/js/787.7518d9ec.chunk.js",
     "static/media/Pixel_Background_(Smartphone).png": "/mg-full/static/media/Pixel_Background_(Smartphone).10dab81ee73ac39064b8.png",
     "static/media/Pixel_Background.png": "/mg-full/static/media/Pixel_Background.c9796f2057c4a6122f1b.png",
     "index.html": "/mg-full/index.html",
-    "main.70531be4.css.map": "/mg-full/static/css/main.70531be4.css.map",
-    "main.455f2503.js.map": "/mg-full/static/js/main.455f2503.js.map",
+    "main.608eb909.css.map": "/mg-full/static/css/main.608eb909.css.map",
+    "main.92a7b040.js.map": "/mg-full/static/js/main.92a7b040.js.map",
     "787.7518d9ec.chunk.js.map": "/mg-full/static/js/787.7518d9ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70531be4.css",
-    "static/js/main.455f2503.js"
+    "static/css/main.608eb909.css",
+    "static/js/main.92a7b040.js"
   ]
 }
